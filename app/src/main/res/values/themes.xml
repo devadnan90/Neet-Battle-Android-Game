@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.NeetBattle" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/stock</item>
+        <item name="android:navigationBarColor">@color/stock</item>
+        <item name="android:windowBackground">@color/stock</item>
+    </style>
+</resources>
