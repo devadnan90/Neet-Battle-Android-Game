@@ -82,7 +82,7 @@ Colors `ui/theme/Theme.kt` me hain. Type ke teen roles hain: display (heavy, tig
 body (question text), aur data (monospace, tracked out — yahi cheez ise exam document
 jaisa feel deti hai).
 
-## Aage kya
+## NEXT
 
 - [ ] Firebase Anonymous auth ya device-id based login
 - [ ] `POST /submit.php` — answers save karo taaki ghost runs bane
